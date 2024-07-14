@@ -1,0 +1,1 @@
+reating a landing page using HTML and CSS involves combining structural elements with styles to create an engaging and functional web page that encourages visitors to take specific actions, such as signing up for a service, purchasing a product, or subscribing to a newsletter
